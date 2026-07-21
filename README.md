@@ -17,8 +17,11 @@
 
 Developed by Marc Purgimon Serra as a part of their the Bachelor's Degree Final Project of Bachelor's Degree in Applied Statistics at Universitat Autònoma de Barcelona.
 
+
+
 Available at https://purgimon.shinyapps.io/UABasicS/
 
+(c) Marc Purgimon Serra, 2026
 
 ### (CATALÀ)
 
