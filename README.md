@@ -21,8 +21,6 @@ Developed by Marc Purgimon Serra as a part of their the Bachelor's Degree Final 
 
 Available at https://purgimon.shinyapps.io/UABasicS/
 
-(c) Marc Purgimon Serra, 2026
-
 ### (CATALÀ)
 
 **UABasicS** és una aplicació R Shiny d'anàlisi estadística bàsica dirigida a professionals sanitaris. L'aplicació permet realitzar les següents tasques, sense la necessitat de saber programació o estadística:
