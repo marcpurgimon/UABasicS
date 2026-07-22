@@ -15,7 +15,7 @@
 - **UABasicS** provides **help files** about basic statistics too.
 
 
-Developed by Marc Purgimon Serra as a part of their the Bachelor's Degree Final Project in Applied Statistics at Universitat Autònoma de Barcelona (UAB), 2026.
+Developed by Marc Purgimon Serra as a part of their the Bachelor's Degree Final Project in Applied Statistics at [Universitat Autònoma de Barcelona (UAB)](https://www.uab.cat/), 2026.
 
 Available at https://purgimon.shinyapps.io/UABasicS/
 
@@ -33,6 +33,6 @@ Available at https://purgimon.shinyapps.io/UABasicS/
 - **Model de regressió logística:** Model per a una variable resposta `binària` amb covariants `numèriques` o `categòriques`.
 - En cada cas disposes d'un fitxer d'ajuda.
 
-Creada per Marc Purgimon Serra per al Treball de Final de Grau (TFG) d'Estadística Aplicada de la Universitat Autònoma de Barcelona (UAB), 2026.
+Creada per Marc Purgimon Serra per al Treball de Final de Grau (TFG) d'Estadística Aplicada de la [Universitat Autònoma de Barcelona (UAB)](https://www.uab.cat/), 2026.
 
 Disponible a https://purgimon.shinyapps.io/UABasicS/
