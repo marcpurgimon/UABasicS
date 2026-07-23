@@ -2,7 +2,7 @@
 
 ### (ENGLISH)
 
-**UABasicS** is a basic statistics R Shiny app that allows medicals to perform basic statistic analysis. This Shiny app provides the following tasks, without requiring knowledge of programming or statistics:
+[UABasicS](https://purgimon.shinyapps.io/UABasicS/) is a basic statistics R Shiny app that allows medicals to perform basic statistic analysis. This Shiny app provides the following tasks, without requiring knowledge of programming or statistics:
 
 - **Upload** your own **database** (`.csv, .txt, .xls, .xlsx, .sav, .sas`) or example databases: [medicaldata](https://higgi13425.github.io/medicaldata/) and [MedDataSets](https://github.com/lightbluetitan/meddatasets).
 - **Preview the dataset**: Data table, summary and class of every variable.
@@ -14,14 +14,15 @@
 - **Logistic regression model**: Model for a `binary` outcome and `numeric` or `categorical` covariates.
 - **UABasicS** provides **help files** about basic statistics too.
 
+Language: Catalan. R outputs in English.
 
 Developed by Marc Purgimon Serra as a part of their the Bachelor's Degree Final Project in Applied Statistics at [Universitat Autònoma de Barcelona (UAB)](https://www.uab.cat/), 2026.
 
-Available at https://purgimon.shinyapps.io/UABasicS/
+
 
 ### (CATALÀ)
 
-**UABasicS** és una aplicació R Shiny d'anàlisi estadística bàsica dirigida a professionals sanitaris. L'aplicació permet realitzar les següents tasques, sense la necessitat de saber programació o estadística:
+[UABasicS](https://purgimon.shinyapps.io/UABasicS/) és una aplicació R Shiny d'anàlisi estadística bàsica dirigida a professionals sanitaris. L'aplicació permet realitzar les següents tasques, sense la necessitat de saber programació o estadística:
 
 - **Carregar** la teva pròpia **base de dades** (`.csv, .txt, .xls, .xlsx, .sav, .sas`) o utilitzar bases de dades mèdiques d'exemple [medicaldata](https://higgi13425.github.io/medicaldata/) and [MedDataSets](https://github.com/lightbluetitan/meddatasets).
 - **Previsualitzar les dades**: taula de dades, resum i classe de cada variable.
@@ -33,6 +34,7 @@ Available at https://purgimon.shinyapps.io/UABasicS/
 - **Model de regressió logística:** Model per a una variable resposta `binària` amb covariants `numèriques` o `categòriques`.
 - En cada cas disposes d'un fitxer d'ajuda.
 
+Idioma: Català. Sortides de R en anglès.
+
 Creada per Marc Purgimon Serra per al Treball de Final de Grau (TFG) d'Estadística Aplicada de la [Universitat Autònoma de Barcelona (UAB)](https://www.uab.cat/), 2026.
 
-Disponible a https://purgimon.shinyapps.io/UABasicS/
