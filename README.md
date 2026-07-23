@@ -16,7 +16,7 @@
 
 Language: Catalan. R outputs in English.
 
-Developed by [Marc Purgimon Serra](https://www.linkedin.com/in/marc-purgimon-serra/) as a part of their the Bachelor's Degree Final Project in Applied Statistics at [Universitat Autònoma de Barcelona (UAB)](https://www.uab.cat/), 2026.
+Developed by [Marc Purgimon Serra](https://www.linkedin.com/in/marc-purgimon-serra/) as a part of the Bachelor's Degree Final Project in Applied Statistics at [Universitat Autònoma de Barcelona (UAB)](https://www.uab.cat/), 2026.
 
 
 
