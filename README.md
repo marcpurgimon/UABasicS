@@ -4,7 +4,7 @@
 
 [UABasicS](https://purgimon.shinyapps.io/UABasicS/) is a basic statistics R Shiny app that allows medicals to perform basic statistic analysis. This Shiny app provides the following tasks, without requiring knowledge of programming or statistics:
 
-- **Upload** your own **database** (`.csv, .txt, .xls, .xlsx, .sav, .sas`) or example databases: [medicaldata](https://higgi13425.github.io/medicaldata/) and [MedDataSets](https://github.com/lightbluetitan/meddatasets).
+- **Upload** your own **database** (`.csv, .txt, .xls, .xlsx, .sav, .sas7bdat`) or example databases: [medicaldata](https://higgi13425.github.io/medicaldata/) and [MedDataSets](https://github.com/lightbluetitan/meddatasets).
 - **Preview the dataset**: Data table, summary and class of every variable.
 - **Data transformation**: Transform variables to `factor` or `numeric` class, and logaritmic transformations.
 - **Download new data** in .csv.
@@ -24,7 +24,7 @@ Developed by [Marc Purgimon Serra](https://www.linkedin.com/in/marc-purgimon-ser
 
 [UABasicS](https://purgimon.shinyapps.io/UABasicS/) és una aplicació R Shiny d'anàlisi estadística bàsica dirigida a professionals sanitaris. L'aplicació permet realitzar les següents tasques, sense la necessitat de saber programació o estadística:
 
-- **Carregar** la teva pròpia **base de dades** (`.csv, .txt, .xls, .xlsx, .sav, .sas`) o utilitzar bases de dades mèdiques d'exemple [medicaldata](https://higgi13425.github.io/medicaldata/) and [MedDataSets](https://github.com/lightbluetitan/meddatasets).
+- **Carregar** la teva pròpia **base de dades** (`.csv, .txt, .xls, .xlsx, .sav, .sas7bdat`) o utilitzar bases de dades mèdiques d'exemple [medicaldata](https://higgi13425.github.io/medicaldata/) and [MedDataSets](https://github.com/lightbluetitan/meddatasets).
 - **Previsualitzar les dades**: taula de dades, resum i classe de cada variable.
 - **Transformacions de dades:** permet canviar la classe de cada variable a factor o numèrica, i també fer transformacions logarítmiques.
 - També et permet **descarregar la base de dades** transformada, en format .csv.
