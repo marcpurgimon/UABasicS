@@ -2,7 +2,7 @@
 
 ### (ENGLISH)
 
-[UABasicS](https://purgimon.shinyapps.io/UABasicS/) is a basic statistics R Shiny app that allows medicals to perform basic statistic analysis. This Shiny app provides the following tasks, without requiring knowledge of programming or statistics:
+[UABasicS](https://purgimon.shinyapps.io/UABasicS/) is a R Shiny app that allows medicals to perform basic statistical analysis. This Shiny app provides the following tasks, without requiring knowledge of programming or statistics:
 
 - **Upload** your own **database** (`.csv, .txt, .xls, .xlsx, .sav, .sas7bdat`) or example databases: [medicaldata](https://higgi13425.github.io/medicaldata/) and [MedDataSets](https://github.com/lightbluetitan/meddatasets).
 - **Preview the dataset**: Data table, summary and class of every variable.
